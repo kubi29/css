@@ -1,0 +1,42 @@
+body {
+    background:#EFECCA; 
+    font-family:trebuchet, helvetica, sans-serif;
+  }
+
+  h1 {
+    color: #C03000;
+  }
+  h2 {
+    
+    color: #4BB5C1;
+  }
+
+  #contact{
+    color: #0000ff;   
+    text-decoration:none;
+    font-weight:bold;
+  }
+
+  ul {
+    list-style-type:none;
+    }
+
+  li {
+    display:inline;
+  }
+
+  li a {
+    color: #ffffff;
+    text-decoration:none;
+    text-align:center;
+    border:2px solid #660000;
+    padding: 0.3em 0.5em 0.3em 0.5em;
+    background: #FF0000; 
+    
+  }
+  
+
+ ul li a:hover {
+    background-color:#009900;
+    text-decoration:underline ;
+    }
